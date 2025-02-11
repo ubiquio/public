@@ -1,3 +1,4 @@
+# https://github.com/ubiquio/public/edit/main/discrete-wave.py
 # ==============================================================
 # God’s Geometry License (GGL) – Version 1.0
 #
