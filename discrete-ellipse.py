@@ -29,7 +29,7 @@
 # its alignment with the principles of **Deterministic Perfection**.
 # ==============================================================
 
-# Reference: The Trojan Horse of Human Civilization – The Collapse of π and the Rise of ח
+# Reference: The Most Beautiful Equation
 # https://www.academia.edu/127695476/The_Most_Beautiful_Equation
 
 import numpy as np
