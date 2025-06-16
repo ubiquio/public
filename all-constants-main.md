@@ -1,4 +1,5 @@
-![alt text](image-146.png)
+![image](https://github.com/user-attachments/assets/b4fb7aef-afa2-4f26-889d-548de13a8ebd)
+
 
 # 12 Constants Derived from Tetrahedral Octahedral (TH-OH) Honeycomb Lattice
 
@@ -539,4 +540,5 @@ Aranovsky, D. (2025). Torah Truth: The Origin of Epistemology and the Geometric 
 
 Aranovsky, D. (2025). Geometric Necessity: The Final Reckoning of Physics. Academia.edu. https://www.academia.edu/129308262/Geometric_Necessity_The_Final_Reckoning_of_Physics
 
-![alt text](18-1.png)
+![image](https://github.com/user-attachments/assets/81dca981-3a58-4e2c-9cf3-1845a4b97e23)
+
