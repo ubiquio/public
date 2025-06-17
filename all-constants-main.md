@@ -388,11 +388,10 @@ The speed of light represents the inevitable consequence of discrete geometric r
 ---
 
 <figure>
- ![image](https://github.com/user-attachments/assets/4e41d308-67e6-4397-ace0-44241d65175f)
-
+  <img src="https://github.com/user-attachments/assets/4e41d308-67e6-4397-ace0-44241d65175f" alt="Mosaic from Moses, not from Crete!">
   <figcaption>
-<p><strong>Mosaic from Moses, not from Crete!</strong></p>
-    Image showing proton structure as 8-layer TH-OH shell with 120 spin-locked vertices in hexagonal tessellation pattern
+    <p><strong>Mosaic from Moses, not from Crete!</strong></p>
+    <p>Image showing proton structure as 8-layer TH-OH shell with 120 spin-locked vertices in hexagonal tessellation pattern</p>
   </figcaption>
 </figure>
 
