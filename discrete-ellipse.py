@@ -29,8 +29,7 @@
 # its alignment with the principles of **Deterministic Perfection**.
 # ==============================================================
 
-# Reference: The Most Beautiful Equation
-# https://www.academia.edu/127695476/The_Most_Beautiful_Equation
+# Reference: https://www.academia.edu/130126551/
 
 import numpy as np
 import matplotlib.pyplot as plt
