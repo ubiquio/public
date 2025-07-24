@@ -29,8 +29,7 @@
 # its alignment with the principles of **Deterministic Perfection**.
 # ==============================================================
 
-# Reference: The Trojan Horse of Human Civilization – The Collapse of π and the Rise of ח
-# https://www.academia.edu/127582440/The_Trojan_Horse_of_Human_Civilization_The_Collapse_of_%CF%80_and_the_Rise_of_%D7%97
+# Reference: https://www.academia.edu/130126551/
 
 import numpy as np
 import matplotlib.pyplot as plt
